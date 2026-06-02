@@ -49,7 +49,7 @@
 
 ## 📱 Featured Projects
 
-- ☕ **[Coffee Code](https://github.com/LingSy12/coffee)** — Flutter coffee‑shop ordering app (login → menu → cart → order) · [⬇️ Download APK](https://github.com/LingSy12/coffee/releases/latest)
+- ☕ **[Coffee Code](https://github.com/LingSy12/coffee)** — Flutter coffee‑shop ordering app (login → menu → cart → order) · [🔗 Live demo](https://lingsy12.github.io/coffee/) · [⬇️ Download APK](https://github.com/LingSy12/coffee/releases/latest)
 - 🔥 **[Firebase Realtime Database CRUD](https://github.com/LingSy12/firebase_crud_app)** — student‑records CRUD on Firebase · [⬇️ Download APK](https://github.com/LingSy12/firebase_crud_app/releases/latest)
 - ⚖️ **[BMI Calculator](https://github.com/LingSy12/bmi_calculator_app)** — colour‑coded BMI calculator in Flutter · [⬇️ Download APK](https://github.com/LingSy12/bmi_calculator_app/releases/latest)
 - 🌐 **[Web Programming Lab](https://github.com/LingSy12/web-programming-lab4)** — Bootstrap static website · [🔗 Live demo](https://lingsy12.github.io/web-programming-lab4/)
