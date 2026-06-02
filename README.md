@@ -1,6 +1,6 @@
 <!-- GitHub profile README for @LingSy12 — renders at https://github.com/LingSy12 -->
 
-# Hi, I'm Ling Sie Yek 👋
+# Hi, I'm Ling 👋
 
 🎓 Master's in **Computer Science** & Bachelor's in **Cognitive Science (Hons)** — Universiti Malaysia Sarawak (UNIMAS)
 🧠 Passionate about **Artificial Intelligence**, **Deep Learning**, **CNNs** and smart technology
