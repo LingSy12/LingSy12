@@ -57,9 +57,3 @@
 ## 📊 GitHub Stats
 
 ![Ling Sie Yek's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingSy12&show_icons=true&hide_border=true)
-
-## 📫 Connect
-
-- 💼 **LinkedIn:** [ling-sie-yek](https://www.linkedin.com/in/ling-sie-yek-683278224/)
-- ✉️ **Email:** lingsieyek50@gmail.com
-- 📍 Sibu, Sarawak, Malaysia
