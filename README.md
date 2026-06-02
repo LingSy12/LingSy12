@@ -5,7 +5,7 @@
 🎓 Master's in **Computer Science** & Bachelor's in **Cognitive Science (Hons)** — Universiti Malaysia Sarawak (UNIMAS)
 🧠 Passionate about **Artificial Intelligence**, **Deep Learning**, **CNNs** and smart technology
 📱 I also build cross‑platform apps with **Flutter** and websites with **Bootstrap**
-📍 Sibu, Sarawak, Malaysia
+📍 Malaysia
 
 ## 🎓 Education
 
