@@ -73,10 +73,22 @@
 - 📝 **[Chinese Subtitle Generator](https://github.com/LingSy12/subtitle_generator)** — local faster‑whisper CLI/GUI that generates `.srt` / `.vtt` / `.ass` subtitles for long videos
 - 🔴 **[Douyin Live Recorder](https://github.com/LingSy12/douyin-live-stream-recorder)** — Android app that monitors Douyin rooms and auto‑records when they go live
 
+<!-- 📸 To show real screenshots, replace the placeholder files in /screenshots with your own captures, keeping the same filenames: cutline-studio.png, subtitle-generator.png, douyin-recorder.png -->
+<table>
+  <tr>
+    <td align="center"><b>🎬 Cutline Studio</b></td>
+    <td align="center"><b>📝 Subtitle Generator</b></td>
+    <td align="center"><b>🔴 Douyin Live Recorder</b></td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="screenshots/cutline-studio.png" alt="Cutline Studio screenshot" width="320"></td>
+    <td valign="top"><img src="screenshots/subtitle-generator.png" alt="Chinese Subtitle Generator screenshot" width="320"></td>
+    <td valign="top"><img src="screenshots/douyin-recorder.png" alt="Douyin Live Recorder screenshot" width="170"></td>
+  </tr>
+</table>
+
 ## 📊 GitHub
 
-[![Followers](https://img.shields.io/github/followers/LingSy12?label=Followers&logo=github&logoColor=white&color=2ea44f&style=for-the-badge)](https://github.com/LingSy12?tab=followers)
-[![Repositories](https://img.shields.io/badge/Repositories-View%20all-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/LingSy12?tab=repositories)
-
-![Ling's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingSy12&show_icons=true&hide_border=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=LingSy12&layout=compact&hide_border=true&langs_count=8)
+[![GitHub](https://img.shields.io/badge/GitHub-LingSy12-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/LingSy12)
+[![Repositories](https://img.shields.io/badge/Repositories-View%20all-2ea44f?logo=github&logoColor=white&style=for-the-badge)](https://github.com/LingSy12?tab=repositories)
+[![Based in](https://img.shields.io/badge/Based%20in-Malaysia-FF6B00?style=for-the-badge)](https://github.com/LingSy12)
