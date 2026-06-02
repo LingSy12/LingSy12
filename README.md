@@ -54,6 +54,7 @@
 - ⚖️ **[BMI Calculator](https://github.com/LingSy12/bmi_calculator_app)** — colour‑coded BMI calculator in Flutter · [🔗 Live demo](https://lingsy12.github.io/bmi_calculator_app/) · [⬇️ Download APK](https://github.com/LingSy12/bmi_calculator_app/releases/latest)
 - 🌐 **[Web Programming Lab](https://github.com/LingSy12/web-programming-lab4)** — Bootstrap static website · [🔗 Live demo](https://lingsy12.github.io/web-programming-lab4/)
 
-## 📊 GitHub Stats
+## 📊 GitHub
 
-![Ling Sie Yek's GitHub stats](https://github-readme-stats.vercel.app/api?username=LingSy12&show_icons=true&hide_border=true)
+[![Followers](https://img.shields.io/github/followers/LingSy12?label=Followers&logo=github&logoColor=white&color=2ea44f&style=for-the-badge)](https://github.com/LingSy12?tab=followers)
+[![Repositories](https://img.shields.io/badge/Repositories-View%20all-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/LingSy12?tab=repositories)
