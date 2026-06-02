@@ -73,20 +73,6 @@
 - 📝 **[Chinese Subtitle Generator](https://github.com/LingSy12/subtitle_generator)** — local faster‑whisper CLI/GUI that generates `.srt` / `.vtt` / `.ass` subtitles for long videos
 - 🔴 **[Douyin Live Recorder](https://github.com/LingSy12/douyin-live-stream-recorder)** — Android app that monitors Douyin rooms and auto‑records when they go live
 
-<!-- 📸 To show real screenshots, replace the placeholder files in /screenshots with your own captures, keeping the same filenames: cutline-studio.png, subtitle-generator.png, douyin-recorder.png -->
-<table>
-  <tr>
-    <td align="center"><b>🎬 Cutline Studio</b></td>
-    <td align="center"><b>📝 Subtitle Generator</b></td>
-    <td align="center"><b>🔴 Douyin Live Recorder</b></td>
-  </tr>
-  <tr>
-    <td valign="top"><img src="screenshots/cutline-studio.png" alt="Cutline Studio screenshot" width="320"></td>
-    <td valign="top"><img src="screenshots/subtitle-generator.png" alt="Chinese Subtitle Generator screenshot" width="320"></td>
-    <td valign="top"><img src="screenshots/douyin-recorder.png" alt="Douyin Live Recorder screenshot" width="170"></td>
-  </tr>
-</table>
-
 ## 📊 GitHub
 
 [![GitHub](https://img.shields.io/badge/GitHub-LingSy12-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/LingSy12)
