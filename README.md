@@ -16,7 +16,7 @@
 
 - **[Enhancing Dog Breed Classification with Feature Fusion of Pre‑trained CNNs and Traditional ML Classifiers](https://github.com/LingSy12/Enhancing-Dog-Breed-Classification-with-Feature-Fusion-of-Pre-trained-CNNs-and-Machine-Learning)** — *Master's project.* Fuses deep features from pre‑trained CNNs with classical classifiers (e.g. logistic regression), reaching **~94.9% accuracy**.
 - **[Dog Breed Recognition Using Deep Learning](https://github.com/LingSy12/Dog-Breed-Recognition-using-Deep-Learning)** — *Final Year Project.* Benchmarks AlexNet, GoogLeNet, InceptionV3, Inception‑ResNet and DenseNet across learning rates and dataset sizes.
-- **[Stacking‑Ensemble Experiments](https://github.com/LingSy12/fyp-test)** — stacks multiple CNN backbones to push dog‑breed classification accuracy further.
+- **[Stacking‑Ensemble Experiments](https://github.com/LingSy12/dog-breed-stacking-ensemble)** — stacks multiple CNN backbones to push dog‑breed classification accuracy further.
 - Trained CNN models and machine‑learning algorithms locally and on Kaggle / Google Colab.
 
 ## 🛠️ Skills
