@@ -9,8 +9,8 @@
 
 ## 🎓 Education
 
-- **MSc in Computer Science (Coursework)** — UNIMAS · 2024–2025 · CGPA 3.37
-- **BSc in Cognitive Science (Honours)** — UNIMAS · 2021–2024 · CGPA 3.23
+- **MSc in Computer Science (Coursework)** — UNIMAS · 2024–2025
+- **BSc in Cognitive Science (Honours)** — UNIMAS · 2021–2024
 
 ## 🔬 AI / Deep Learning Projects
 
