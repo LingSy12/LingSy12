@@ -5,6 +5,7 @@
 🎓 Master's in **Computer Science** & Bachelor's in **Cognitive Science (Hons)** — Universiti Malaysia Sarawak (UNIMAS)
 🧠 Passionate about **Artificial Intelligence**, **Deep Learning** and **Convolutional Neural Networks (CNNs)**
 📱 I build **Flutter** mobile apps, **Laravel** / **Bootstrap** websites, and **Electron** / **Python** desktop tools
+🌐 Portfolio: **[lingsy.pages.dev](https://lingsy.pages.dev)**
 📍 Malaysia
 
 ## 🎓 Education
@@ -75,6 +76,7 @@
 
 ## 📊 GitHub
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-lingsy.pages.dev-5eead4?style=for-the-badge)](https://lingsy.pages.dev)
 [![GitHub](https://img.shields.io/badge/GitHub-LingSy12-181717?logo=github&logoColor=white&style=for-the-badge)](https://github.com/LingSy12)
 [![Repositories](https://img.shields.io/badge/Repositories-View%20all-2ea44f?logo=github&logoColor=white&style=for-the-badge)](https://github.com/LingSy12?tab=repositories)
 [![Based in](https://img.shields.io/badge/Based%20in-Malaysia-FF6B00?style=for-the-badge)](https://github.com/LingSy12)
